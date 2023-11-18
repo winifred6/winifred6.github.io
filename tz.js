@@ -1,1 +1,1 @@
-window.location.href='http://www.baidu.com'
+window.location.href='https://docs.qingque.cn/d/home/eZQB_joTxOUfELpRmy35Vl8Yh'

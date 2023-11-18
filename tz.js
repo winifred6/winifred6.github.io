@@ -1,1 +1,1 @@
-window.location.href='http://www.qq.com'
+window.location.href='http://www.baidu.com'
